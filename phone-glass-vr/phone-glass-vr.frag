@@ -2,7 +2,7 @@
  * DISCLAIMER:
  * This code is not made to be reusable or readable
  * It is made ad-hoc by somebody excited to render glass
-/*
+ */
 
 #ifdef GL_FRAGMENT_PRECISION_HIGH
 precision highp float;
